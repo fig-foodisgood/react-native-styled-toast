@@ -25,7 +25,7 @@
   "author": "Jean Verster",
   "license": "MIT",
   "peerDependencies": {
-    "react": "^16.8.x",
+    "react": "^17.0.x",
     "react-native": "^0.63.x",
     "react-native-vector-icons": "^9.x",
     "styled-components": "^4.x",
