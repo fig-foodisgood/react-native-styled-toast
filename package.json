@@ -1,6 +1,6 @@
 {
   "name": "@figfoodisgood/react-native-styled-toast",
-  "version": "1.4.5-alpha1",
+  "version": "1.4.5-alpha2",
   "description": "A theme friendly, easy to use react-native toast component built using styled-components and styled-system.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -24,6 +24,12 @@
   ],
   "author": "Jean Verster",
   "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.63.x",
+    "react-native-vector-icons": "^9.x",
+    "styled-components": "^5.x",
+    "styled-system": "^5.x"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/fig-foodisgood/react-native-styled-toast"
